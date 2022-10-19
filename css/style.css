@@ -37,10 +37,16 @@ h2 {
 	margin: 50px;
 	border: 10px;
 	background-color: #333300;
-	float: center;
 	margin-left:auto;
 	margin-right: auto;
 }
+.image {
+	border: 10px solid blue;
+	width: 200px;
+	height: 150px;
+}
+ 
+
 
 
 	
