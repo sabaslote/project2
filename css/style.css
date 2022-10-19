@@ -1,3 +1,8 @@
 body{
-	color: rgba(88, 37, 91);
+  background-color: rgb(88, 37, 91);
+  color: rgb(255, 255, 255);
+}
+#navbar {
+	text-decoration: none;
+	color: rbb(255, 255, 255);
 }
