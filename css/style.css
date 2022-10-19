@@ -1,8 +1,48 @@
 body{
   background-color: rgb(88, 37, 91);
   color: rgb(255, 255, 255);
+  font-family: sans-serif;
+  text-align: center;
 }
-#navbar {
+h1, h3 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+	text-decoration: underline;
+}
+.navigation {
+	text-align: center;
+	position: relative;
+	background-color: #333300;
+	font-size: 150%;
+}
+.navigation li{
+	display: inline-block;
+}
+.navigation a:hover{
+	background-color: rgb(63, 26, 248);
+	text-decoration: underline overline;
+}
+.navigation a{
 	text-decoration: none;
-	color: rbb(255, 255, 255);
+	color: rgb(255, 255, 255);
+	display: block;
+	padding: 20px 30px;
 }
+.box {
+	height: 200px;
+	width: 500px;
+	padding: 10px;
+	margin: 50px;
+	border: 10px;
+	background-color: #333300;
+	float: center;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+
+	
+
+	
