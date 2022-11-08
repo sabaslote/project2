@@ -45,8 +45,8 @@ h2 {
 }
 .image {
   border: 10px solid green;
-  width: 200px;
-  height: 150px;
+  width: 20%;
+  height: 20%;
   float: center;
 }
 h2 {
@@ -75,10 +75,9 @@ h2 {
 h3 {
   background-color: rgba(0,0,255,0.4);
   font-size: 1.2em;
+  line-height: 1.3em;
 }
-.colortext{
-  color: red;
-}
+
 	
 
 	
