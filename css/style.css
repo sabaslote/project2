@@ -69,7 +69,9 @@ h2 {
   height: 250px;
   border: 20px solid blue;
 }
-
+h3 {
+  background-color: rgba(0,0,255,0.4);
+}
 
 
 	
