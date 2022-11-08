@@ -51,7 +51,7 @@ h2 {
   float: center;
 }
 h2 {
-  background-color: pink;
+  background-color: rgba(11,156,49, 0.6);
   font-size: 1.6em;
 }
 .box {
