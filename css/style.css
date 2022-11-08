@@ -55,7 +55,20 @@ h2 {
 .box {
   border: 20px solid blue;
 }
-
+.pepper{
+  float: left;
+  width: 15%;
+  border: 20px solid blue;
+}
+.text{
+	float: center;
+}
+.garlic{
+  float: right;
+  width: 15%;
+  height: 250px;
+  border: 20px solid blue;
+}
 
 
 
