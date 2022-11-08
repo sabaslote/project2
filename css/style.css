@@ -9,6 +9,7 @@ ul, li{
 }
 h1, h3 {
   text-align: center;
+  position: relative;
 }
 h2 {
   text-align: center;
@@ -17,7 +18,7 @@ h2 {
 .navigation {
   text-align: center;
   position: relative;
-  background-color: #333300;
+  background-color: rgb(0,128,128);
   font-size: 150%;
 }
 .navigation li{
@@ -60,7 +61,7 @@ h2 {
   position: relative;
   float: left;
   width: 15%;
-  border: 20px solid blue;
+  border: 20px solid magenta;
 }
 .text{
   float: center;
@@ -70,14 +71,12 @@ h2 {
   float: right;
   width: 15%;
   height: 250px;
-  border: 20px solid blue;
+  border: 20px solid magenta;
 }
 h3 {
   background-color: rgba(0,0,255,0.4);
   font-size: 1.2em;
   line-height: 1.3em;
 }
-
-	
 
 	
