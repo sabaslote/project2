@@ -55,7 +55,7 @@ h2 {
   font-size: 1.6em;
 }
 .box {
-  border: 20px solid yellow;
+  border: 20px solid violet;
 }
 .pepper{
   position: relative;
@@ -82,6 +82,11 @@ iframe{
   width: 39em;
   height: 29em;
   position: relative;
+  border: 20px solid magenta;
 }
-
+p {
+  margin: 20px 10px;
+  color: #8f8;
+  font-size: 1.0em;
+}
 	
