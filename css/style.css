@@ -48,7 +48,7 @@ h2 {
   border: 10px solid green;
   width: 20%;
   height: 20%;
-  float: center;
+  position: relative;
 }
 h2 {
   background-color: rgba(11,156,49, 0.6);
