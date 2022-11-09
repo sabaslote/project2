@@ -64,7 +64,7 @@ h2 {
   border: 20px solid magenta;
 }
 .text {
-  float: relative;
+  position: relative;
 }
 .garlic {
   position: relative;
